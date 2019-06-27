@@ -3,4 +3,4 @@ RGJREX O.S. is a 16-bit Operating System which boots from a floppy disk. But usi
 
 ## Reference 
 
-MikeOS-based operating system project (Version 4.5)
+MikeOS operating system project (Version 4.5)
