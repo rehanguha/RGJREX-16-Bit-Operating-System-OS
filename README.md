@@ -10,37 +10,37 @@ RGJREX O.S. is a 16-bit Operating System which boots from a floppy disk. But usi
 
 **Chapter 1**
 
-1.1 Introduction_……………………………………………………………………………………_1
+1.1 Introduction
 
 **Chapter 2**
 
-2.1 Scope of the project……………………………………………………………………….1
+2.1 Scope of the project
 
-2.2 User wise Functionalities………………………………………………………………..2
+2.2 User wise Functionalities
 
 **Chapter 3**
 
-3.1 Design diagrams……………………………………………………………………………..2
+3.1 Design diagrams
 
 
 
 **Chapter 4**
 
-4.1 Software requirement………………………………………………………….…….....3
+4.1 Software requirement
 
-4.2 Hardware Requirement………………………………………………………………….4
+4.2 Hardware Requirement
 
 
 
 **Chapter 5**
 
-5.1 Results and discussion_……………………………………………………………………_4
+5.1 Results and discussion
 
-5.2 Future Scope….………………………………………………………………………………6
+5.2 Future Scope
 
 **Chapter 6**
 
-6.1 Conclusions ……………………………………………………………………………….....6
+6.1 Conclusions
 
 # Chapter 1
 
