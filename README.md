@@ -156,9 +156,17 @@ Screenshots:-
 
 - Home Screen
 
+![alt text](https://github.com/rehanguha/RGJREX-16-Bit-Operating-System-OS/blob/master/images/Picture1.png)
+
 - Menu
 
+![alt text](https://github.com/rehanguha/RGJREX-16-Bit-Operating-System-OS/blob/master/images/Picture2.png)
+
 - Command Line
+
+![alt text](https://github.com/rehanguha/RGJREX-16-Bit-Operating-System-OS/blob/master/images/Picture3.png)
+
+
 
 **5.2 Future Scope**
 
